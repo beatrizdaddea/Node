@@ -25,6 +25,7 @@ async function pegaArquivo(caminhoDoArquivo) {
   }
 }
 
+
 // promises com then()
 
 // function pegaArquivo(caminhoDoArquivo) {
